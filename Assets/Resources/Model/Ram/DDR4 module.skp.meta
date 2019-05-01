@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: d58b906a669435d47a94372e447311e9
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 8286da3cc34dd1016f1495f5173dc803
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.010979866, y: 0.095595166, z: -0.099500276}
+      lookAt: {x: 0.08321728, y: -0.049526893, z: 0.020580838}
+      up: {x: 0.42530546, y: 0.72468174, z: 0.5421731}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 1
+    100004: Group 11
+    100006: Group 13
+    100008: Group 2
+    100010: Group 3
+    100012: Group 4
+    100014: Group 6
+    100016: Group 8
+    100018: Group 9
+    400000: //RootNode
+    400002: Group 1
+    400004: Group 11
+    400006: Group 13
+    400008: Group 2
+    400010: Group 3
+    400012: Group 4
+    400014: Group 6
+    400016: Group 8
+    400018: Group 9
+    2100000: _defaultMat
+    2100002: '[Color_I04]'
+    2100004: '[Color_G11]'
+    2100006: '[Color_L18]'
+    2100008: '[Color_I18]'
+    2100010: '[Color_K20]'
+    2100012: '[Color_L24]'
+    2100014: '[Color_K14]'
+    2100016: '[Color_L10]'
+    2300000: Group 11
+    2300002: Group 13
+    2300004: Group 4
+    2300006: Group 6
+    2300008: Group 9
+    3300000: Group 11
+    3300002: Group 13
+    3300004: Group 4
+    3300006: Group 6
+    3300008: Group 9
+    4300000: Mesh Group 4
+    4300002: Mesh Group 6
+    4300004: Mesh Group 13
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
