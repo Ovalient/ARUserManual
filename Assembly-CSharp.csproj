@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\VGAToggle.cs" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
     <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
     <None Include="Assets\Vuforia\Shaders\OutlineOpaque.shader" />
@@ -79,6 +80,7 @@
     <None Include="Assets\Vuforia\Shaders\DepthContour.shader" />
     <None Include="Assets\StreamingAssets\Vuforia\MotherBoard.xml" />
     <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\ARUserManual_OT.xml" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/12klj/Unity/ARUserManual/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
